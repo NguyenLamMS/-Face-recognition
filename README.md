@@ -1,7 +1,7 @@
 ## Roll up using face recognition
 
 Chương trình quản ý sinh viên sử dụng nhận diện khuôn mặt để điểm danh
-![Image of Yaktocat](https://octodex.github.com/images/daftpunktocat-guy.gif)
+![Image of Yaktocat](https://octodex.github.com/images/filmtocats.png)
 ## Các chức năng chính
 # Login
 ![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/login.PNG)
@@ -15,8 +15,7 @@ Chương trình quản ý sinh viên sử dụng nhận diện khuôn mặt đ�
 ![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/manager%20class%20%26%20subject.PNG)
 # Điểm danh
 **1.Điểm danh bằng hình ảnh**
-![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/roll%20up.PNG)
-![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/roll%20up%20image.PNG)
+![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/roll%20up%20image.gif)
 **2.Điểm danh bằng video**
 ![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/roll%20up%20video.PNG)
 # Thống kê báo cáo
