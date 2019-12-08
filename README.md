@@ -37,6 +37,10 @@ Chương trình quản ý sinh viên sử dụng nhận diện khuôn mặt đ�
 ![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/export%20excel.PNG)
 
 ### Các tư viện đã sử dụng
-**Argon - Design System**:https://demos.creative-tim.com/argon-dashboard/docs/getting-started/overview.html#docs
+**Argon - Design System**:
+<br>
+https://demos.creative-tim.com/argon-dashboard/docs/getting-started/overview.html#docs
 </br>
-**Face Recognition**:https://github.com/ageitgey/face_recognition
+**Face Recognition**:
+<br>
+https://github.com/ageitgey/face_recognition
