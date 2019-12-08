@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Roll up using face recognition
 
-You can use the [editor on GitHub](https://github.com/NguyenLamMS/Face-recognition/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Chương trình quản ý sinh viên sử dụng nhận diện khuôn mặt để điểm danh
+![Image of Yaktocat](https://octodex.github.com/images/daftpunktocat-guy.gif)
+## Các chức năng chính
+# Login
+![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/login.PNG)
+# Quản lý sinh viên
+![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/home.PNG)
+**1.Thêm sinh viên**
+![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/add%20student.PNG)
+**2.Xoá sinh viên**
+![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/delete.PNG)
+# Quản lý lớp và môn học
+![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/manager%20class%20%26%20subject.PNG)
+# Điểm danh
+**1.Điểm danh bằng hình ảnh**
+![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/roll%20up.PNG)
+![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/roll%20up%20image.PNG)
+**2.Điểm danh bằng video**
+![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/roll%20up%20video.PNG)
+# Thống kê báo cáo
+**1.Thống kê số buổi nghỉ**
+![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/report.PNG)
+**2.Xuất Exel**
+![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/export%20excel.PNG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NguyenLamMS/Face-recognition/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Các tư viện đã sử dụng
+**Argon - Design System**:https://demos.creative-tim.com/argon-dashboard/docs/getting-started/overview.html#docs
+</br>
+**Face Recognition**:https://github.com/ageitgey/face_recognition
