@@ -1,7 +1,7 @@
 ## Roll up using face recognition
 
 Chương trình quản ý sinh viên sử dụng nhận diện khuôn mặt để điểm danh
- 
+ ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ### Các chức năng chính
 ```markdown
 # Login
