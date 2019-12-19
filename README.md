@@ -36,7 +36,7 @@ Chương trình quản ý sinh viên sử dụng nhận diện khuôn mặt đ�
 **2.Xuất Exel**
 ![Image](https://github.com/NguyenLamMS/Face-recognition/blob/master/image%20preiew/export%20excel.PNG)
 
-### Các tư viện đã sử dụng
+### Các thư viện đã sử dụng
 **Argon - Design System**:
 <br>
 https://demos.creative-tim.com/argon-dashboard/docs/getting-started/overview.html#docs
